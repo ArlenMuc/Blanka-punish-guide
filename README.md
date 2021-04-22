@@ -16,11 +16,11 @@ Ryu
 
 Ken
 
-   Stand Block Light ball
+    Stand Block Light ball
        Dash HP DP(66 623HP)
        V-reversal ->Guren Enjikyaku (6+kkk -> 236236k)
 
-   Light Ball/Ex Ball
+    Light Ball/Ex Ball
        In V-trigger 1 Ex Tatsumaki Senpukkyaku (QCB+KK)(214+K)
 
 Nash
@@ -409,6 +409,7 @@ Lucia
         Gunsmoke (236+p) i> V skill 1
 
 Poison
+
     Stand Block Light Ball
         Ex Heart raid light heavy (214+LP+HP): 
 
