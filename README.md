@@ -8,8 +8,6 @@ Also to answer the question of why there's inconsistency in punishes when blanka
 
 I'm only going to include consistent punishes, the op post on reddit does include some inconsistent punishes for when blocked point blank or blocking it meaty. If I do not denote Stand in the notes assume the move can be blocked crouching. And if there's any thing I missed feel free to dm me on twitter @muc_flow
 
-**Note: As of Dan's release I'll be updating it soon, All the character's data as of right now will be pre Dan patch, with the exception of Dan who I've finished testing
-
 Ryu
 
     Light Ball/Ex Ball
