@@ -18,7 +18,7 @@ Ryu
 
 Ken
 
-   Stand Light ball
+   Stand Block Light ball
        Dash HP DP(66 623HP)
        V-reversal ->Guren Enjikyaku (6+kkk -> 236236k)
 
@@ -42,7 +42,7 @@ M.Bison
     Light Ball
         Crouching HK
 
-    Stand Light Ball
+    Stand Block Light Ball
 
         V-trigger 1 HK Double Knee press (46k)
 
@@ -73,7 +73,7 @@ Cammy
 
 Karin
 
-    Stand block Light Ball
+    Stand Block Light Ball
         HK Kanzuki-Ryu Hokojutsu Seppo > Tenko (236+K>P) (Tenko must be delayed)
 
     Light Ball
@@ -102,10 +102,10 @@ R.Mika
 
 Vega
 
-    Stand Light Ball/ EX Ball
+    Stand Block Light Ball/ EX Ball
         Buster Claw(forward HP with claw on)
 
-    Stand Light Ball
+    Stand Block Light Ball
         Forward Dash > Crouching LP
 
     Light Ball
@@ -131,7 +131,7 @@ Dhalsim
 
         Standing HP
 
-    Stand Light Ball/Ex Ball
+    Stand Block Light Ball/Ex Ball
         Standing HK
 
 
@@ -212,7 +212,7 @@ Balrog
 
         V-reversal
 
-    Stand Light Ball
+    Stand Block Light Ball
         HK Dash Grand Blow(charge 4-6+K)
 
 Urien
@@ -222,7 +222,7 @@ Urien
 
         V-reversal
     
-    Stand Light Ball/Stand or Crouch Ex Ball
+    Stand Block Light Ball/Ex Ball
         Neutral Vtrigger 1 Activation (only works with 1st mirror)
 
     Light Ball
@@ -236,7 +236,7 @@ Juri
     Light Ball/Ex Ball
         V-Skill (only if Juri already has charged it)
 
-    Stand Light Ball
+    Stand Block Light Ball
         Vtrigger 1 Active > Forward dash > Standing LK 
 
 Akuma
@@ -261,15 +261,15 @@ Kolin
 
 Ed
 
-    Stand Light Ball
-         Forward Dash > Crouching LP (Only in range for flicker as followup)
+    Stand Block Light Ball
+         Forward Dash > Crouching LP (Only in range for flicker or CA as followup)
 
     Light Ball/Ex Ball
         V-Reversal > crouch HP or quicker
 
 Abigail
 
-    Stand Light Ball
+    Stand Block Light Ball
         Crouching HK 
 
     Light Ball/Ex Ball
@@ -289,9 +289,10 @@ Menat
 
 Zeku(Old)
 
-    Stand Light Ball
+    Stand Block Light Ball
         Forward Dash > standing LP(can only connect light bushin gram - koku as a follow up 236+LK)
-
+        Forward Dash > crouch LK
+        
     Light Ball/Ex Ball
         EX Bushin Gram - Koku (236+K) 
 
@@ -309,7 +310,7 @@ Zeku(Young)
 
         V-reversal
 
-    Stand Light Ball
+    Stand Block Light Ball
         Dash forward light kick. You can get literally nothing off the light kick at the range it hits so don't bother unless you're going for some troll shit
 
 Sakura
@@ -338,6 +339,9 @@ Cody
 
     Light Ball
         Zonk Knuckle Lv2(Hold Punch for more than 5 seconds)
+
+    Stand Block Light Ball
+        microwalk MK Ruffian Kick(236+MK) (The microwalk has to be between 3 and 5 frames)
 
     Light Ball/Ex Ball
         Ex Zonk Knuckle Lv1(Hold and releas 2 punches)
@@ -389,7 +393,7 @@ Sagat
 
 Kage:
 
-    Stand BlockLight Ball/Ex Ball 
+    Stand Block Light Ball/Ex Ball 
         V trigger 2 active > Shun Goku Satsu (Demon)(LP>LP>6LK>HP)
 
 E Honda
@@ -407,7 +411,7 @@ Lucia
         Gunsmoke (236+p) i> V skill 1
 
 Poison
-    Stand Light Ball
+    Stand Block Light Ball
         Ex Heart raid light heavy (214+LP+HP): 
 
     Light Ball/Ex Ball
@@ -419,7 +423,7 @@ Gill
 
         Delay v-reversal
 
-    Stand Light Ball
+    Stand Block Light Ball
         Forward dash > Critical Art
 
 Seth
