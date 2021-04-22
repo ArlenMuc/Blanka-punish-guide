@@ -437,11 +437,15 @@ Seth
         Critical Art
 
 
-
 Dan
 
     No punishes, not even v-reversal which will leave Blanka at +4 if done as soon as possible
+
+
+Rose
+
+    No punishes
     
 
 
-* Guide has been updated as of patch Ver.05.020
+* Guide has been updated as of patch Ver.06.021
