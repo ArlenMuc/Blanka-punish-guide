@@ -385,7 +385,7 @@ Sagat
     Light Ball/Ex Ball
         V-reversal
 
-    **I've heard kara cancel off 6 hk into CA works. I'm very bad at that and haven't been able to confirm it but it looks like it should work
+    **I've heard kara cancel off 6 hk into CA could work. I'm very bad at that and haven't been able to confirm it in game and it doesn't look like it works in sfvsim so if someone can show me it working that'd be helpful.
 
 Kage:
 
@@ -437,6 +437,7 @@ Seth
 Dan
 
     No punishes, not even v-reversal which will leave Blanka at +4 if done as soon as possible
+    
 
 
 * Guide has been updated as of patch Ver.05.020
