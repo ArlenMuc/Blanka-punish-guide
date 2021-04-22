@@ -262,7 +262,7 @@ Kolin
 Ed
 
     Stand Light Ball
-         Forward Dash > Standing/Crouching LP (Only in range for flicker as followup)
+         Forward Dash > Crouching LP (Only in range for flicker as followup)
 
     Light Ball/Ex Ball
         V-Reversal > crouch HP or quicker
