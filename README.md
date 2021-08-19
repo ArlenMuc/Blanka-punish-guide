@@ -445,6 +445,18 @@ Rose
 
     No punishes
     
+Akira
+    Light Ball/Ex Ball
+        EX Kiko Kai (236+pp)
+        
+        EX Urarimon (214+pp)
+        
+        Critical Art (236236+p)
+    
+
+Oro
+
+    Guide coming soon
 
 
 * Guide has been updated as of patch Ver.06.021
