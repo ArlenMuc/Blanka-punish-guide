@@ -455,8 +455,8 @@ Akira
     
 
 Oro
+        
+        Critical Art (236236+p)
 
-    Guide coming soon
 
-
-* Guide has been updated as of patch Ver.06.021
+* Guide has been updated as of patch Ver.06.031
