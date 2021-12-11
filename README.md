@@ -1,4 +1,4 @@
-# Blanka-punish-guide
+# Blanka-Ball-punish-guide
 
 People seem to still not know how to deal with Blanka balls so to help people with Blanka ball punishes I've decided to put out this helpful guide. Since some people have already done most of the work I'm gonna steal most of their hard work cause I'm a lazy fuck. Thanks to /u/SHINX_FUCKER and the commenters on reddit for the work getting Ryu to Blanka. OP found here https://www.reddit.com/r/StreetFighter/comments/7zb2mu/every_possible_punish_for_lpex_blanka_ball_as/
 
