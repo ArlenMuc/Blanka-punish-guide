@@ -455,8 +455,16 @@ Akira
     
 
 Oro
-        
+    Light Ball/Ex Ball        
         Critical Art (236236+p)
 
+Luke
+    Light Ball/Ex Ball
+        V-trigger 1 (hp+hk)
+        
+    Light Ball
+        Medium Sand Blaster (236+mp)
+        
+        EX Sand Blaster (236+pp)
 
-* Guide has been updated as of patch Ver.06.031
+* Guide has been updated as of patch Ver.08.16
