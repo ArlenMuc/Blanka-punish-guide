@@ -446,6 +446,7 @@ Rose
     No punishes
     
 Akira
+
     Light Ball/Ex Ball
         EX Kiko Kai (236+pp)
         
@@ -455,10 +456,12 @@ Akira
     
 
 Oro
+
     Light Ball/Ex Ball        
         Critical Art (236236+p)
 
 Luke
+
     Light Ball/Ex Ball
         V-trigger 1 (hp+hk)
         
