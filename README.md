@@ -97,6 +97,7 @@ Birdie
 R.Mika
 
     None, but you can hit it with wingless airplane on incoming.
+    And after blocking hp shooting peach is spaced to be +2 on block
 
 Vega
 
@@ -466,8 +467,7 @@ Luke
         V-trigger 1 (hp+hk)
         
     Light Ball
-        Medium Sand Blaster (236+mp)
         
         EX Sand Blaster (236+pp)
 
-* Guide has been updated as of patch Ver.08.16
+* Guide has been updated as of patch Ver.07.002 also refered as CR202205 Ver
